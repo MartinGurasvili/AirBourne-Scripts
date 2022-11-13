@@ -14,11 +14,10 @@
     <br>
     <br>
     <br>
-    
-Watch the trailer below
+    <a href="https://www.youtube.com/watch?v=twql-aK_wjE"><strong>Watch The Trailer On YouTube</strong></a>
     <br>
     <br>
-<video src="https://user-images.githubusercontent.com/76784461/201528975-13f9050f-6594-4d20-90e3-03f67445dfde.mp4">
+<img src="https://user-images.githubusercontent.com/76784461/201528975-13f9050f-6594-4d20-90e3-03f67445dfde.mp4">
 
 
 
