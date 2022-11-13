@@ -1,6 +1,3 @@
-# 
-
-
 
 <h1 align="center">AirBourne Scripts</h1>
 
